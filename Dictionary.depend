@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476722556 source:c:\users\aditp\desktop\dictionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
